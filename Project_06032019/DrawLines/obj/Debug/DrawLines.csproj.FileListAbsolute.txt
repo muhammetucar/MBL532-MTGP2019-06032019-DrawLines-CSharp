@@ -1,0 +1,20 @@
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\bin\Debug\DrawLines.exe.config
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\bin\Debug\DrawLines.exe
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\bin\Debug\DrawLines.pdb
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\obj\Debug\DrawLines.csprojAssemblyReference.cache
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\obj\Debug\DrawLines.Form1.resources
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\obj\Debug\DrawLines.csproj.GenerateResource.cache
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\obj\Debug\DrawLines.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\obj\Debug\DrawLines.exe
+C:\Users\Muhammet UÇAR\Desktop\06 mar\DrawLines\DrawLines\obj\Debug\DrawLines.pdb
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\bin\Debug\DrawLines.exe.config
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\bin\Debug\DrawLines.exe
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\bin\Debug\DrawLines.pdb
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\obj\Debug\DrawLines.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\obj\Debug\DrawLines.Form1.resources
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\obj\Debug\DrawLines.csproj.GenerateResource.cache
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\obj\Debug\DrawLines.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\obj\Debug\DrawLines.exe
+C:\Users\Muhammet\Desktop\ITUv3\04_DrawLines_VisualStudio\DrawLines\obj\Debug\DrawLines.pdb
